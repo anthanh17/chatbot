@@ -1,0 +1,11 @@
+# Initialize data
+GET http://localhost:9000/chatbot/initialize_data
+
+###
+# Prompt
+POST http://localhost:9000/chatbot/prompt
+content-type: application/json
+
+{
+    "question": "What did the president say about Russia"
+}
