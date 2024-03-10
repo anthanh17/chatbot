@@ -1,4 +1,4 @@
-# chatbot golang, reactjs, tailwindcss, Postgres, vector database
+# Chatbot - golang, reactjs, tailwindcss, Postgres, vector database
 
 # Problem
 
